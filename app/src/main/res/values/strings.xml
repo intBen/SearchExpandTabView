@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SearchExpandTabView</string>
+    <string name="no_data">暂无数据</string>
+    <string name="region_serach_title">按地区</string>
+    <string name="rank_serach_title">按星级</string>
+    <string name="specialty_serach_title">按特长</string>
+</resources>
